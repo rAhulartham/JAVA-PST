@@ -1,4 +1,4 @@
- public class Fruits {
+ public class Arrayindexing{
     public static void main(String[] args) {
         // 1. Declare and initialize an array
         String[] fruits = {"Apple", "Banana", "Cherry", "Mango"};
